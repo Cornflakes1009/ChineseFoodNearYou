@@ -1,0 +1,31 @@
+body { 
+    background: url("assets/lanterns.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* color: white !important; */
+  }
+
+  #call_bar {
+      width: 100%;
+      text-align: center;
+      background-color: rgb(212, 178, 137);
+      padding: 0.5rem 0;
+  }
+
+
+  #call_bar:hover {
+    background-color: rgb(14, 179, 14);
+  }
+
+  .mr-auto {
+    margin-right: auto !important;
+  }
+
+  #main_content {
+      /* background-color: white; */
+  }
+  .card {
+      background-color: red !important;
+  }
